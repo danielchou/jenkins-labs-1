@@ -21,7 +21,7 @@ using Nop.Web.Framework.Security;
 using Nop.Web.Models.Boards;
 using Nop.Web.Models.Common;
 
-namespace Nop.Web.Contro22llers
+namespace Nop.Web.Controllers
 {
     [NopHttpsRequirement(SslRequirement.No)]
     public partial class BoardsController : BasePublicController
