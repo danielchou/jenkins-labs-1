@@ -24,7 +24,7 @@ using Nop.Web.Models.Common;
 namespace Nop.Web.Controllers
 {
     [NopHttpsRequirement(SslRequirement.No)]
-    public partial class Boards555Controller : BasePublicController
+    public partial class BoardsController : BasePublicController
     {
         #region Fields
 
