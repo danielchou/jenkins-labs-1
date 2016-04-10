@@ -1152,6 +1152,7 @@
     <None Include="Azure - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\danielsvdkbnleru6ai - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\danielsvdkbnleru6ai - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\Jenkins - localhost -iis.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\fineuploader\iframe.xss.response-4.2.2.js" />
     <Content Include="Scripts\fineuploader\jquery.fineuploader-4.2.2.js" />
