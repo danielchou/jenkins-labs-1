@@ -1,0 +1,9 @@
+C:\case\jenkins-labs-1\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+C:\case\jenkins-labs-1\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+C:\case\jenkins-labs-1\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+C:\case\jenkins-labs-1\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+C:\case\jenkins-labs-1\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+C:\case\jenkins-labs-1\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+C:\case\jenkins-labs-1\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+C:\case\jenkins-labs-1\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+C:\case\jenkins-labs-1\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

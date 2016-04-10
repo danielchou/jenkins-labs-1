@@ -1,0 +1,10 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\Configure.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\PaymentInfo.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb

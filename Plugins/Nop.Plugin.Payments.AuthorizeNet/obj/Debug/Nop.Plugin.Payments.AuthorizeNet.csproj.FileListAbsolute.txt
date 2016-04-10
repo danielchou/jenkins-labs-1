@@ -1,0 +1,10 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

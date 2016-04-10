@@ -1,0 +1,9 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Views\ShippingFixedRate\Configure.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\web.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb

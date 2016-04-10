@@ -1,0 +1,7 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

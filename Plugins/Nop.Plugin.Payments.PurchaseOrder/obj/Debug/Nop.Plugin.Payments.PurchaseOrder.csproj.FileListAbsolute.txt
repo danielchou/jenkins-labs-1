@@ -1,0 +1,10 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

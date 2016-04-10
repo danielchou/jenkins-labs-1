@@ -1,0 +1,6 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\bin\Nop.Admin.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

@@ -1,0 +1,9 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\ShippingUSPS\Configure.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

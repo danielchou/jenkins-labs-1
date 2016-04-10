@@ -1,0 +1,10 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\Configure.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\ProductAddPopup.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

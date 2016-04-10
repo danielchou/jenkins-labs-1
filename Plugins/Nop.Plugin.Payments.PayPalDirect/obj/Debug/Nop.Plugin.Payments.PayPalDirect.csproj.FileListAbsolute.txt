@@ -1,0 +1,11 @@
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\Configure.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\PaymentInfo.cshtml
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\case\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\case\jenkins-labs-1\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
